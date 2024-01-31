@@ -16,5 +16,8 @@
     <ProjectReference Include="..\Sudoku.Backtracking\Sudoku.Backtracking.csproj" />
     <ProjectReference Include="..\Sudoku.Shared\Sudoku.Shared.csproj" />
     <ProjectReference Include="..\Sudoku.Z3solver\Sudoku.Z3solver.csproj" />
+    <ProjectReference Include="..\Sudoku.Prob\Sudoku.Prob.csproj" />
+    <ProjectReference Include="..\Sudoku.Coloration\Sudoku.Coloration.csproj" />
+    <ProjectReference Include="..\Sudoku.SolveurHumain\Sudoku.SolveurHumain.csproj" />
   </ItemGroup>
 </Project>
